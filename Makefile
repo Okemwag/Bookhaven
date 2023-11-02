@@ -1,5 +1,3 @@
-# Makefile for Dockerized Django Application
-
 # Environment variables
 ENV_FILE := .env
 
